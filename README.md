@@ -15,13 +15,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Changes:
 
-<b>2017-08-24 - v1.1</b>
+<b>v1.1 (2017-08-24)</b>
 ```
 + all features
 + HandyCache v1.0.0.700
 + optimize code
 ```
-<b>2017-08 - v1.0</b>
+<b>v1.0 (2017-08)</b>
 ```
 Public after confict - social artefacts
 ```
