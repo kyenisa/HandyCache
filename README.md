@@ -6,8 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Ad-Block
 * Limit by Size and Type
-* Average Loading
-* Delay Loading
+* Average Loading (Images, Styles, Javascripts)
+* Delay Loading (Images)
 * Compressing saved data
 * Defragmentation saved data
 * Advanced Monitor
