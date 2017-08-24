@@ -10,6 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Delay Loading
 * Compressing saved data
 * Defragmentation saved data
+* Advanced Monitor
 * Full open scripts
 
 ### Changes:
