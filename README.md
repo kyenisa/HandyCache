@@ -1,7 +1,7 @@
-Extension pack for HandyCache by truefriend-cz
-
-Features:
-
+## Extension pack for HandyCache by truefriend-cz<br />
+<br />
+Features:<br />
+<br />
 * Ad-Block
 * Limit by Size and Type
 * Average Loading
@@ -9,17 +9,16 @@ Features:
 * Compressing saved data
 * Defragmentation saved data
 * Full open scripts
+<br />
+Licencion for Extensions: CC BY-NC-SA (Attribution-NonCommercial-ShareAlike - https://creativecommons.org/licenses/by-nc-sa/)<br />
+GitHub: https://github.com/truefriend-cz/HandyCache/<br />
 
-Licencion for Extensions: CC BY-NC-SA (Attribution-NonCommercial-ShareAlike - https://creativecommons.org/licenses/by-nc-sa/)
-GitHub: https://github.com/truefriend-cz/HandyCache/
-
-
-Changes:
-
-2017-08-24	-	v1.1
-	+ all features
-	+ HandyCache v1.0.0.700
-	+ optimize code
-
-2017-08		-	v1.0
-	Public after confict - social artefacts
+Changes:<br />
+<br />
+2017-08-24 - v1.1<br />
++ all features<br />
++ HandyCache v1.0.0.700<br />
++ optimize code<br />
+<br />
+2017-08 - v1.0<br />
+Public after confict - social artefacts<br />
