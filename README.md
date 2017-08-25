@@ -12,15 +12,26 @@ These instructions will get you a copy of the project up and running on your loc
 * Defragmentation saved data
 * Full open scripts
 
+### Bugs:
+```
+- Facebook and other conceptually more complex servers may not display properly
+```
+Use this link for report a problem: https://github.com/truefriend-cz/HandyCache/issues
+
 ### Changes:
 
-<b>2017-08-24 - v1.1</b>
+<b>v1.2 (2017-08-25)</b>
+```
++ remove bugs in Monitor
++ optimize code
+```
+<b>v1.1 (2017-08-24)</b>
 ```
 + all features
 + HandyCache v1.0.0.700
 + optimize code
 ```
-<b>2017-08 - v1.0</b>
+<b>v1.0 (2017-08)</b>
 ```
 Public after confict - social artefacts
 ```
